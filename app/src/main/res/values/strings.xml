@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hogger\'s Den Admin</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_order_selector">OrderSelector</string>
+    <string name="title_activity_orders_page">OrdersPage</string>
+    <string name="title_activity_add_order">AddOrder</string>
+    <string name="title_activity_ccheck">ccheck</string>
+    <string name="title_activity_check">check</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="openDrawer">openDrawer</string>
+    <string name="closeDrawer">closeDrawer</string>
+    <string name="Rs">\u20B9</string>
+    <string name="title_activity_login_page">LoginPage</string>
+
+</resources>

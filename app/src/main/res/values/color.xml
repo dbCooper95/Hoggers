@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <color name="PrimaryBackground">#FAFAFA</color>
+    <color name="SecondaryBackground">#F5F5F5</color>
+    <color name="PrimaryText">#212121</color>
+    <color name="SecondaryText">#424242</color>
+    <color name="ColorDark">#303F9F</color>
+    <color name="ColorLight">#3F51B5</color>
+    <color name="green">#8BC34A</color>
+    <color name="Selected">#88BDBDBD</color>
+    <color name="UNSELECTED">#FFFFFFFF</color>
+
+
+    <color name="colorPrimary">@color/yellow_l_lightning</color>
+    <color name="colorPrimaryDark">@color/yellow_d_buttercup</color>
+    <color name="colorAccent">@color/yellow_d_buttercup</color>
+    <color name="colorTextPrimary">#ddFFFFFF</color>
+    <color name="colorTextSecondary">#88ffffff</color>
+    <color name="colorTransparent">#00FFFFFF</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="blue">#2980b9</color>
+    <color name="red">#e74c3c</color>
+    <color name="black_d_material_black">#131418</color>
+    <color name="orange">#e67e22</color>
+    <color name="white">#ffffff</color>
+    <color name="colorAccentTransparent">#aaff7da9</color>
+    <color name="purple_d_honey_flower">#674172</color>
+    <color name="lighter_black">#333333</color>
+    <color name="grey">#444444</color>
+    <color name="green_l_carribean">#03C9A9</color>
+    <color name="green_d_sea">#1BA39C</color>
+    <color name="green_l_jade">#00B16A</color>
+    <color name="teal_d_material">#004D40</color>
+    <color name="teal_l_material">#1abc9c</color>
+    <color name="blue_l_steel_blue">#4B77BE</color>
+    <color name="blue_d_material">#1A237E</color>
+    <color name="blue__d_pickeled_bluewood">#34495E</color>
+    <color name="blue_d_chambray">#3A539B</color>
+    <color name="blue_d_midnight_blue">#2c3e50</color>
+    <color name="blue_d_grey">#34465d</color>
+    <color name="blue_d_ebony_clay">#22313F</color>
+    <color name="blue_l_lynch">#6C7A89</color>
+    <color name="purple_d_rebecca">#663399</color>
+    <color name="purple_l_plum">#913D88</color>
+    <color name="yellow_l_lightning">#F5AB35</color>
+    <color name="yellow_d_buttercup">#F39C12</color>
+    <color name="orange_d_zest">#E67E22</color>
+    <color name="orange_l_crusta">#F2784B</color>
+    <color name="pink_d_material">#880E4F</color>
+    <color name="black_d_material">#212121</color>
+    <color name="black_d_blue">#263238</color>
+    <color name="red_l_poppy">#C0392B</color>
+    <color name="red_l_chestnut">#D24D57</color>
+    <color name="red_l_alizarin">#e74c3c</color>
+    <color name="red_d_pomegranate">#c0392b</color>
+    <color name="first_background_color">@color/blue_d_ebony_clay</color>
+    <color name="first_light_background_color">@color/blue_l_steel_blue</color>
+    <color name="purple_a_l_material">#7C4DFF</color>
+
+</resources>
